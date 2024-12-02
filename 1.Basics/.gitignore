@@ -1,0 +1,4 @@
+lib/*
+out/*
+CMakeFiles/*
+.vs/*
